@@ -1,0 +1,11 @@
+C:\Users\Neil Michaels\source\repos\StackArrayProject\bin\Debug\netcoreapp3.1\StackArrayProject.exe
+C:\Users\Neil Michaels\source\repos\StackArrayProject\bin\Debug\netcoreapp3.1\StackArrayProject.deps.json
+C:\Users\Neil Michaels\source\repos\StackArrayProject\bin\Debug\netcoreapp3.1\StackArrayProject.runtimeconfig.json
+C:\Users\Neil Michaels\source\repos\StackArrayProject\bin\Debug\netcoreapp3.1\StackArrayProject.runtimeconfig.dev.json
+C:\Users\Neil Michaels\source\repos\StackArrayProject\bin\Debug\netcoreapp3.1\StackArrayProject.dll
+C:\Users\Neil Michaels\source\repos\StackArrayProject\bin\Debug\netcoreapp3.1\StackArrayProject.pdb
+C:\Users\Neil Michaels\source\repos\StackArrayProject\obj\Debug\netcoreapp3.1\StackArrayProject.csprojAssemblyReference.cache
+C:\Users\Neil Michaels\source\repos\StackArrayProject\obj\Debug\netcoreapp3.1\StackArrayProject.AssemblyInfoInputs.cache
+C:\Users\Neil Michaels\source\repos\StackArrayProject\obj\Debug\netcoreapp3.1\StackArrayProject.AssemblyInfo.cs
+C:\Users\Neil Michaels\source\repos\StackArrayProject\obj\Debug\netcoreapp3.1\StackArrayProject.dll
+C:\Users\Neil Michaels\source\repos\StackArrayProject\obj\Debug\netcoreapp3.1\StackArrayProject.pdb
